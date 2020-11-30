@@ -4,7 +4,7 @@
     display:none;
 }
 .welcome-caption{
-    margin-top:-100px;
+    margin-top:-90px;
 }
 .multimedia-caption,.button-wrapper-one{
     margin-left:-700px;
@@ -18,3 +18,9 @@
     list-style:none;
 }
 /* coding for the landing page ended here*/
+
+/* portfolio section coding start here*/
+    .portfolio-wrapper{
+       margin-left:-600px;
+    }
+/* portfolio section coding ended here*/
