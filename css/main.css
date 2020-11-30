@@ -1,0 +1,20 @@
+/* coding for the landing page start here*/
+.landing-page{
+    background-color:black !important;
+    display:none;
+}
+.welcome-caption{
+    margin-top:-100px;
+}
+.multimedia-caption,.button-wrapper-one{
+    margin-left:-700px;
+    margin-top:0px;
+}
+.services-wrapper,.button-wrapper-two{
+    margin-right:-1700px;
+    margin-top:0px;
+}
+.services-li{
+    list-style:none;
+}
+/* coding for the landing page ended here*/
